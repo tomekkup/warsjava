@@ -19,12 +19,12 @@ Polecam edytor [Sublime Text 2] (http://www.sublimetext.com/2)
 
 # Przydatne narzędzia
 
-* [API Browser] (http://demo.qooxdoo.org/current/apiviewer/#qx)
-* [Demo Browser] (http://demo.qooxdoo.org/current/demobrowser/#)
-* [Playground] (http://demo.qooxdoo.org/current/playground/index.html)
-* [Online edytor JSON z parsowaniem] (http://jsoneditoronline.org/)
+* API Browser [http://demo.qooxdoo.org/current/apiviewer/#qx] (http://demo.qooxdoo.org/current/apiviewer/#qx)
+* Demo Browser [http://demo.qooxdoo.org/current/demobrowser/#] (http://demo.qooxdoo.org/current/demobrowser/#)
+* Playground [http://demo.qooxdoo.org/current/playground/index.html] (http://demo.qooxdoo.org/current/playground/index.html)
+* Online edytor / parser JSON [http://jsoneditoronline.org/] (http://jsoneditoronline.org/)
 * Plugin Postman do Chrome (przyda się)
-* Konsola bazy H2 : http://localhost:8080/warsjavaqx/console/login.jsp
+* Konsola bazy H2 : [http://localhost:8080/warsjavaqx/console/login.jsp] (http://localhost:8080/warsjavaqx/console/login.jsp)
 	* Login: warsjavaqx
 	* Hasło: warsjavaqx
 
