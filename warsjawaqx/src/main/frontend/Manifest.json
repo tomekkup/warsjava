@@ -1,0 +1,31 @@
+{
+    "info" : 
+    {
+        "name" : "warsjavaqx",
+
+        "summary" : "Projekt testowy dla uczestnikow warsztatow",
+        "description" : "",
+    
+        "homepage" : "http://tomekkup.github.com/warsjavaqx/",
+
+        "license" : "GPLv2: http://www.gnu.org/licences/gpl.html",
+        "authors" : 
+        [
+        
+        ],
+
+        "version" : "1.0",
+        "qooxdoo-versions": ["2.0.2"]
+    },
+  
+    "provides" : 
+    {
+        "namespace"   : "warsjavaqx",
+        "encoding"    : "utf-8",
+        "class"       : "source/class",
+        "resource"    : "source/resource",
+        "translation" : "source/translation",
+        "type"        : "application"
+    }
+}
+
