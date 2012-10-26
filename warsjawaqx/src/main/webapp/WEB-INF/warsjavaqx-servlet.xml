@@ -14,5 +14,10 @@
     <bean name="/Department.json" class="com.googlecode.jsonrpc4j.spring.JsonServiceExporter">
         <property name="service" ref="departmentService"/>
         <property name="serviceInterface" value="jug.warsjavaqx.services.DepartmentService"/>
-    </bean>    
+    </bean>
+    
+    <bean name="/Evaluation.json" class="com.googlecode.jsonrpc4j.spring.JsonServiceExporter">
+        <property name="service" ref="evaluationService"/>
+        <property name="serviceInterface" value="jug.warsjavaqx.services.EvaluationService"/>
+    </bean>
 </beans>

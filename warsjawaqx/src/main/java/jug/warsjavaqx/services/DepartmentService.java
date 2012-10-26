@@ -1,19 +1,9 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package jug.warsjavaqx.services;
 
-import com.googlecode.jsonrpc4j.JsonRpcParam;
 import java.util.List;
 import jug.warsjavaqx.model.Department;
 import jug.warsjavaqx.model.DeptEmp;
-import jug.warsjavaqx.model.Employee;
 
-/**
- *
- * @author tomek
- */
 public interface DepartmentService {
 
     Department getById(String id);

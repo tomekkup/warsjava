@@ -4,15 +4,9 @@ import com.googlecode.jsonrpc4j.JsonRpcParam;
 import java.util.List;
 import jug.warsjavaqx.model.Department;
 import jug.warsjavaqx.model.DeptEmp;
-import jug.warsjavaqx.model.Employee;
 import jug.warsjavaqx.services.DepartmentService;
-import jug.warsjavaqx.services.EmployeeService;
 import org.springframework.stereotype.Component;
 
-/**
- *
- * @author tomek
- */
 @Component("departmentService")
 public class DefaultDepartmentService extends AbstractEbeanService implements DepartmentService {
 

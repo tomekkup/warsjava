@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package jug.warsjavaqx.services.impl;
 
 import com.googlecode.jsonrpc4j.JsonRpcParam;
@@ -11,10 +7,6 @@ import jug.warsjavaqx.model.Employee;
 import jug.warsjavaqx.services.EmployeeService;
 import org.springframework.stereotype.Component;
 
-/**
- *
- * @author tomek
- */
 @Component("employeeService")
 public class DefaultEmployeeService extends AbstractEbeanService implements EmployeeService {
 

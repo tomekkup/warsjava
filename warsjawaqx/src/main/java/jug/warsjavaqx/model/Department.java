@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package jug.warsjavaqx.model;
 
 import java.io.Serializable;
@@ -16,10 +12,6 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import org.codehaus.jackson.annotate.JsonBackReference;
 
-/**
- *
- * @author tomek
- */
 @Entity
 @Table(name = "departments")
 public class Department implements Serializable {
