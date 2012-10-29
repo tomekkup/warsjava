@@ -12,7 +12,7 @@ Polecam edytor [Sublime Text 2] (http://www.sublimetext.com/2)
 
 ## Szybki start
 
-* Pobierz projekt z repozytorium git@github.com:tomekkup/helenos.git i brancha __master__
+* Pobierz projekt z repozytorium git@github.com:tomekkup/warsjava.git i brancha __master__
 * Pobrane sdk rozpakuj do katalogu głównego w którym znajduje się Twój workspace i tenże katalog nazwij po prostu __qooxdoo__
 * Zainstaluj Python-a (pamiętaj, Qx nie jest kompatybilne z Python 3)
 * Rozpakuj plik bazy danych (ten z brancha __materialy__) i skopiuj do swojego katalogu domowego
